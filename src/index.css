@@ -1,0 +1,25 @@
+body {
+  /* background: #F0E7EA; */
+  /* font-family: 'Nunito', sans-serif; */
+  background: #ebfaff;
+  margin: 0;
+  /* font-family: 'Roboto Mono', monospace; */
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {font-family: "Swiss 721 Bold Rounded";
+  src: url("assets/fonts/d890d634174186faf6358e45fdf5f286.eot"); /* IE9*/
+  src: url("assets/fonts/d890d634174186faf6358e45fdf5f286.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("assets/fonts/d890d634174186faf6358e45fdf5f286.woff2") format("woff2"), /* chrome、firefox */
+  url("assets/fonts/d890d634174186faf6358e45fdf5f286.woff") format("woff"), /* chrome、firefox */
+  url("assets/fonts/d890d634174186faf6358e45fdf5f286.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("assets/fonts/d890d634174186faf6358e45fdf5f286.svg#Swiss 721 Bold Rounded") format("svg"); /* iOS 4.1- */
+}
